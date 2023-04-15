@@ -1,0 +1,8 @@
+{
+	"version_code": 126,
+	"version_name": "1.2.6",
+	"on_play_pkg": "multispace.multiapp.clone.app.pro",
+	"title": "New version 1.2.6 found!",
+	"details": ["1.fix some crash bugs", "2.Adapter android 13.0"],
+	"is_force_update": true
+}

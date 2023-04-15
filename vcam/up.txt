@@ -1,0 +1,8 @@
+{
+	"version_code": 204,
+	"version_name": "2.0.4",
+	"on_play_pkg": "virtual.camera.app",
+	"title": "New version 2.0.4 found!",
+	"details": ["1.fix some crash bugs", "2.Adapter android 13.0"],
+	"is_force_update": true
+}
